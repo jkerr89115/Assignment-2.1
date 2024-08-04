@@ -1,0 +1,28 @@
+
+h1
+{
+    color: gold;
+}
+h3
+{
+    color: orangered;
+}
+button
+{
+    background-color: lightblue;
+    color: red;
+    width: 50;
+    height: 20;
+    border-radius: 25px;
+    border-color: greenyellow;
+}
+
+body 
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    text-shadow: 0 0 5px black;
+    background-color: green;
+}
